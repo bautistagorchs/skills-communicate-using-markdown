@@ -2,6 +2,11 @@
 
 ### Markdown is a well-known lightweight syntax
 
+- [x] First element of my task list ticked
+- [ ] Oh wow, if I click enter the create themselves!!!!
+- [ ] And another one but this one also
+- [x] checked
+
 ``` javascript
  const alsoSupports = Javascript
 ```
@@ -15,3 +20,4 @@
 ```
 git commit -m "Testing the different types of headings"
 ```
+
